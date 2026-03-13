@@ -1,4 +1,4 @@
-# Nova Tabularium 📊
+# Retail Chain KPI Insights with Nova Tabularium 📊
 
 > **A zero-dependency, single-file retail analytics dashboard.**  
 > Generate sample data, point it at your own CSVs, and get a fully interactive dashboard — no server, no npm, no build step.
