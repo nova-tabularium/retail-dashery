@@ -13,7 +13,6 @@
 
 ![demo](chain-retail-kpi-dashboard/demo.gif)
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Dashboard-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nova-tabularium.github.io/retail-dashery/chain-retail-kpi-dashboard/demo_dashboard.html)
 [![View Folder](https://img.shields.io/badge/View%20Folder-GitHub-333?style=for-the-badge&logo=github)](https://github.com/nova-tabularium/retail-dashery/tree/main/chain-retail-kpi-dashboard)
 
 A full-featured operations dashboard for a multi-location retail chain covering 4+ years of daily sales across 12 stores in 3 regions. Explore revenue trends, weather correlation, promo lift, co-tenant impact, and store rankings — all filterable in real time.
