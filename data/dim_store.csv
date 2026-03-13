@@ -1,0 +1,13 @@
+store_id,store_name,region,format,sq_ft,drive_thru,cotenant_count,city
+S01,Downtown Flagship,East,Flagship,8500,False,2,Toronto
+S02,Scarborough Mall,East,Mall,4200,False,3,Toronto
+S03,Mississauga Standalone,East,Standalone,3800,True,1,Mississauga
+S04,Ottawa Rideau,East,Mall,3200,False,2,Ottawa
+S05,Montreal Centre,East,Flagship,7200,False,4,Montreal
+S06,Calgary Beltline,West,Standalone,4000,True,1,Calgary
+S07,Edmonton Whyte Ave,West,Standalone,3500,False,2,Edmonton
+S08,Vancouver Robson,West,Flagship,6800,False,3,Vancouver
+S09,Surrey Power Centre,West,Mall,4500,True,4,Surrey
+S10,Winnipeg Polo Park,Central,Mall,3600,False,3,Winnipeg
+S11,Regina Northgate,Central,Standalone,2900,True,2,Regina
+S12,Halifax Spring Garden,East,Standalone,3100,False,1,Halifax

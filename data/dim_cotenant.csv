@@ -1,0 +1,29 @@
+store_id,cotenant
+S01,Pharmacy
+S01,Bank
+S02,Food Court
+S02,Cinema
+S02,Fashion Anchor
+S03,Grocery
+S04,Food Court
+S04,Electronics
+S05,Pharmacy
+S05,Bank
+S05,Coffee Chain
+S05,Gym
+S06,Gas Station
+S07,Grocery
+S07,Hardware
+S08,Bank
+S08,Coffee Chain
+S08,Pharmacy
+S09,Food Court
+S09,Cinema
+S09,Fashion Anchor
+S09,Grocery
+S10,Food Court
+S10,Cinema
+S10,Electronics
+S11,Gas Station
+S11,Hardware
+S12,Coffee Chain
