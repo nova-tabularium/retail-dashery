@@ -28,7 +28,7 @@ A full-featured operations dashboard for a multi-location retail chain covering 
 | 04 | `inventory-health-dashboard` | Stock levels, days-on-hand, shrink, reorder triggers by SKU and location |
 | 05 | `promo-effectiveness-dashboard` | Pre/during/post promo windows, halo effects, cannibalization, ROI by campaign |
 
-> Have a dashboard type you'd like to see? [Open an issue](https://github.com/nova-tabularium/retail-dashery/issues) — requests welcome.
+> Have a dashboard type you'd like to see? [Open an issue](https://github.com/nova-tabularium/retail-dashery/issues) 
 
 ---
 
@@ -63,7 +63,7 @@ No `pip install`. No Node. Works fully offline.
 
 ## 📜 License
 
-MIT — free to use, modify, and distribute. Attribution appreciated.
+MIT — free to use and modify. Attribution appreciated.
 
 ---
 
