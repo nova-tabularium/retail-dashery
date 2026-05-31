@@ -2,7 +2,6 @@
 
 > **A growing collection of open-source, zero-dependency retail analytics dashboards.**  
 > Each one ships with a data generator, a build script, sample CSVs, and a live demo — no server, no npm, no build step.
-> nova.tabularium@gmail.com
 
 ---
 
